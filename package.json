@@ -10,7 +10,6 @@
   "description": "curso",
   "version": "1.0.0",
   "main": "asyncAwait.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Vulquimar-Silva/cursonode.git"
