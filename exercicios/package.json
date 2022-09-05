@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "nodemon": "^2.0.9"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "curso_node",
+  "description": "curso",
+  "version": "1.0.0",
+  "main": "asyncAwait.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vulquimar-Silva/cursonode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vulquimar-Silva/cursonode/issues"
+  },
+  "homepage": "https://github.com/Vulquimar-Silva/cursonode#readme"
+}
